@@ -1,5 +1,8 @@
 ## Lecture material Week 12 - Intro to BioImage Analysis and Deep Learning Utilization
 
+Open [Noise2Void Notebook](https://githubtocolab.com/deeplife4eu/Lecture-materials/blob/main/Week_12/2025-Week_12-DeepLife_Noise2Void_2D_ZeroCostDL4Mic.ipynb) in Google Colab.
+Open [Stardist Notebook](https://githubtocolab.com/deeplife4eu/Lecture-materials/blob/main/Week_12/2025-Week_12-DeepLife_StarDist_2D_ZeroCostDL4Mic.ipynb) in Google Colab.
+
 ### Martin Schätz (Prague)
 
 ### Lab notebooks
